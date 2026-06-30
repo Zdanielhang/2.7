@@ -76,3 +76,22 @@ all of the ads or button related to go to sellers also go to the ad page:
 ```html
 <a href="ad.html" class="btn btn-primary">contact seller</a>
 ```
+final product:
+
+index page(homepage)
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/fb9c6a06-cbd9-4819-b0b2-42c6245f7260" />
+
+ad page(all ads go to this page also had to do two photo cause the image scales with the page toom avaliable)
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/4fea80b9-8601-48a8-9a63-921db92f1146" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/63eacdb8-d860-4ec4-80f5-0d8cb1104452" />
+
+
+ads page
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/267c59ed-f9ff-4850-991f-f242be20eeb9" />
+
+Post page(post a ad page)
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/5bf21f3d-1e2a-4b47-88a6-7b2a4bfe3ceb" />
+
+scams page
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/e6e84f4a-15f3-4fdc-bd14-c2825218635f" />
+
