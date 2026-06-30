@@ -1,9 +1,7 @@
 The wireframes was already made in html which meat all wee neded was to make it fuctional and add the the correct images or add what else was needed such as font size increase for certain pages 
 
 screenshot of Scam page html(<img width="970" height="922" alt="image" src="https://github.com/user-attachments/assets/918ef7ab-407a-47e1-8a18-ae02ec2afc56" />)
-screenshot of Scam page prechanges(<img width="1866" height="981" alt="image" src="https://github.com/user-attachments/assets/293ab92e-f8a2-45b8-92c3-aa2441aeb6b3" />)
-
-this is the html code if the Scams page which is likely gonna have the most changes due to i will add a video player for people who might need a visual understanding of how to not get scammed.
+most of the pages already has a great colour controst for the users along with the font used are dyslexia friendly while 
 
 Photo changes:
 (<img width="1862" height="926" alt="image" src="https://github.com/user-attachments/assets/dc416c5d-fba4-4877-ace4-6e4727d121ef" />)
@@ -73,3 +71,7 @@ Scams page now has video player that links to how to spot a scammer whcih also a
 </nav>
 ```
 
+all of the ads or button related to go to sellers also go to the ad page:
+```html
+<a href="ad.html" class="btn btn-primary">contact seller</a>
+```
