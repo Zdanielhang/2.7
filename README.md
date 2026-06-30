@@ -1,4 +1,4 @@
-The wireframes was already made in html which meat all wee neded was to make it fuctional and add the the correct images or add what else was needed such as font size increase for certain pages 
+The wireframes was already made in html which met all wee neded was to make it fuctional and add the the correct images or add what else was needed such as font size increase for certain pages 
 
 screenshot of Scam page html(<img width="970" height="922" alt="image" src="https://github.com/user-attachments/assets/918ef7ab-407a-47e1-8a18-ae02ec2afc56" />)
 most of the pages already has a great colour controst for the users along with the font used are dyslexia friendly while 
