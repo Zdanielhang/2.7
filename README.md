@@ -70,6 +70,7 @@ Scams page now has video player that links to how to spot a scammer whcih also a
         </iframe>
 </nav>
 ```
+notes: was workingh before now it doesn't 
 
 all of the ads or button related to go to sellers also go to the ad page:
 ```html
